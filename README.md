@@ -20,7 +20,7 @@
 
 <div align="right">  
   
-${\textsf{\color{#79e9d0}Sunny, Swi, or whatever you desire to call me :D I like dinosaurs, my friends, and sometimes I draw}}$<br>$\color{#79e9d0}{\textsf{I love to play Roblox and pony town with my frens!! :3}}$
+${\textsf{\color{#79e9d0}Sunny, Swi, or whatever you desire to call me :D I like dinosaurs and sometimes I draw}}$<br>$\color{#79e9d0}{\textsf{I love to play Roblox and pony town with my frens!! :3}}$
 
   </details>
          </td>
