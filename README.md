@@ -46,7 +46,7 @@ ${\textsf{\color{#79e9d0}Ultrakill, Hollow Knight (Silksong), Garn47, Rain World
 <details>
 <summary>$\color{#43e9d0}{\textsf{✦ ݁˖ Personas}}$</summary>
 
-${\textsf{\color{#79e9d0}The Radiance (Hollow Knight), Mindflayer (Ultrakill)}}$
+${\textsf{\color{#79e9d0}The Radiance (Hollow Knight), Mindflayer, Raphael (both from Ultrakill)}}$
 
   </details>
          </td>
