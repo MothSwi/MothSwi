@@ -33,7 +33,7 @@ ${\textsf{\color{#79e9d0}Sunny, Swi, or whatever you desire to call me :D I like
 <details>
 <summary>$\color{#43e9d0}{\textsf{✦ ݁˖ My interests (fandoms)}}$</summary>
 
-${\textsf{\color{#79e9d0}Ultrakill, Hollow Knight (Silksong), Garn47, Rain World (just started, xd)}}$<br>$\color{#79e9d0}{\textsf{ARK: Survival Evolved, and The Isle}}$
+${\textsf{\color{#79e9d0}Ultrakill, Hollow Knight (Silksong), Garn47, Rain World (just started, xd)}}$<br>$\color{#79e9d0}{\textsf{ARK: Survival Evolved, The Isle, Dandy's World (kinda)}}$<br>$\color{#79e9d0}{\textsf{Pressure (love the game, I don't support the drama :c)}}$
 
   </details>
          </td>
@@ -46,7 +46,7 @@ ${\textsf{\color{#79e9d0}Ultrakill, Hollow Knight (Silksong), Garn47, Rain World
 <details>
 <summary>$\color{#43e9d0}{\textsf{✦ ݁˖ Personas}}$</summary>
 
-${\textsf{\color{#79e9d0}The Radiance (Hollow Knight), Mindflayer, Raphael (both from Ultrakill)}}$
+${\textsf{\color{#79e9d0}The Radiance (Hollow Knight), Mindflayer, Raphael (both from Ultrakill)}}$<br>$\color{#79e9d0}{\textsf{Flutter (Dandy's World)}}$
 
   </details>
          </td>
