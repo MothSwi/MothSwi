@@ -4,9 +4,9 @@
 
 
 <p align="right">
- ${\textsf{\color{#b6e9d0}Hello!!}}$
+ ${\textsf{\color{#f1f7f9}Hello!! >.< }}$
 <p align="left">
-<img width="194" height="177" alt="streetcleaner-ultrakill" src="https://github.com/user-attachments/assets/c4e945ae-085b-4be4-80a6-44d4ec564688" title=:D />
+<img width="304" height="304" alt="Image" src="https://github.com/user-attachments/assets/f56b086e-4d4f-4fd0-b2a6-c03bbb597441" title=MyRainWorldOcYayy />
 <div align="right">
 
   <br>
@@ -16,11 +16,11 @@
           <tr>
             <td>
     <details>
-<summary>$\color{#43e9d0}{\textsf{✦ ݁˖ I am...}}$</summary>
+<summary>$\color{#d0e2e7}{\textsf{✦ ݁˖ About me}}$</summary>
 
 <div align="right">  
   
-${\textsf{\color{#79e9d0}Sunny, Swi, or whatever you desire to call me :D I like dinosaurs and sometimes I draw}}$<br>$\color{#79e9d0}{\textsf{I love to play Roblox and pony town with my frens!! :3}}$
+${\textsf{\color{#f1f7f9}Sunny, Swi, or whatever you desire to call me :D I like dinosaurs and sometimes I draw}}$<br>$\color{#f1f7f9}{\textsf{I love to play Roblox and pony town with my frens!! :3}}$
 
   </details>
          </td>
@@ -31,9 +31,9 @@ ${\textsf{\color{#79e9d0}Sunny, Swi, or whatever you desire to call me :D I like
     <tr>
       <td>
 <details>
-<summary>$\color{#43e9d0}{\textsf{✦ ݁˖ My interests (fandoms)}}$</summary>
+<summary>$\color{#d0e2e7}{\textsf{✦ ݁˖ My interests (fandoms)}}$</summary>
 
-${\textsf{\color{#79e9d0}Ultrakill, Hollow Knight (Silksong), Garn47, Rain World (just started, xd)}}$<br>$\color{#79e9d0}{\textsf{ARK: Survival Evolved, The Isle}}$<br>$\color{#79e9d0}{\textsf{Pressure (love the game, I don't support the drama :c)}}$<br>$\color{#79e9d0}{\textsf{Casualties:Unknown | Scav Prototype, Regretevator}}$
+${\textsf{\color{#f1f7f9}Ultrakill, Hollow Knight (Silksong), Garn47, Rain World (just started, xd)}}$<br>$\color{#f1f7f9}{\textsf{ARK: Survival Evolved, The Isle}}$<br>$\color{#f1f7f9}{\textsf{Pressure (love the game, I don't support the drama :c)}}$<br>$\color{#f1f7f9}{\textsf{Casualties:Unknown | Scav Prototype, Regretevator}}$<br>$\color{#f1f7f9}{\textsf{PLEASE BE FRIENDS WITH ME IF YOU KNOW MOST OF THESE!! OwO}}$
 
   </details>
          </td>
@@ -44,9 +44,9 @@ ${\textsf{\color{#79e9d0}Ultrakill, Hollow Knight (Silksong), Garn47, Rain World
     <tr>
       <td>
 <details>
-<summary>$\color{#43e9d0}{\textsf{✦ ݁˖ Personas}}$</summary>
+<summary>$\color{#d0e2e7}{\textsf{✦ ݁˖ Personas}}$</summary>
 
-${\textsf{\color{#79e9d0}The Radiance (Hollow Knight), Mindflayer, Raphael (both from Ultrakill)}}$<br>$\color{#79e9d0}{\textsf{Seven Red Suns (Rain World), Folly (Regretevator)}}$
+${\textsf{\color{#f1f7f9}The Radiance (Hollow Knight), Mindflayer (Ultrakill)}}$<br>$\color{#f1f7f9}{\textsf{Seven Red Suns (Rain World), Folly (Regretevator)}}$
 
   </details>
          </td>
@@ -55,11 +55,10 @@ ${\textsf{\color{#79e9d0}The Radiance (Hollow Knight), Mindflayer, Raphael (both
 
 
 
-<a href="https://www.roblox.com/users/10426544082/profile"><img align="left" width="404" height="115" alt="Screenshot_2" src="https://github.com/user-attachments/assets/c1d9dbcc-ef8e-433c-ad46-1adbe96ba565" title=MyRobloxAccount />
-
+<a href="https://www.roblox.com/users/10426544082/profile"><img width="404" height="140" alt="Image" src="https://github.com/user-attachments/assets/993e4e90-4ae7-4b25-addb-77307a7f6b26" title=MyRobloxAccount />
 <p align="left">
   
- ${\textsf{\color{#b6e9d0}Interact or c+h anytime on pony town :D Love yall, take care💙}}$
+ ${\textsf{\color{#f1f7f9}Interact or c+h anytime on pony town :D Love yall, take care💙}}$<br>$\color{#f1f7f9}{\textsf{This is created mainly for pony town o.o}}$
 
 <br>
 <br>
