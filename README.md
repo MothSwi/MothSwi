@@ -33,7 +33,7 @@ ${\textsf{\color{#f1f7f9}Sunny, Swi, or whatever you desire to call me :D I like
 <details>
 <summary>$\color{#d0e2e7}{\textsf{✦ ݁˖ My interests (fandoms)}}$</summary>
 
-${\textsf{\color{#f1f7f9}Ultrakill, Hollow Knight (Silksong), Garn47, Rain World (just started, xd)}}$<br>$\color{#f1f7f9}{\textsf{ARK: Survival Evolved, The Isle}}$<br>$\color{#f1f7f9}{\textsf{Pressure (love the game, I don't support the drama :c)}}$<br>$\color{#f1f7f9}{\textsf{Casualties:Unknown | Scav Prototype, Regretevator}}$<br>$\color{#f1f7f9}{\textsf{PLEASE BE FRIENDS WITH ME IF YOU KNOW MOST OF THESE!! OwO}}$
+${\textsf{\color{#f1f7f9}Ultrakill, Hollow Knight (Silksong), Garn47, Rain World (ILOVETHISGAMESOMUCH OHMYGOD)}}$<br>$\color{#f1f7f9}{\textsf{ARK: Survival Evolved, The Isle}}$<br>$\color{#f1f7f9}{\textsf{Pressure (love the game, I don't support the drama :c)}}$<br>$\color{#f1f7f9}{\textsf{Casualties:Unknown | Scav Prototype, Regretevator}}$<br>$\color{#f1f7f9}{\textsf{PLEASE BE FRIENDS WITH ME IF YOU KNOW MOST OF THESE!! OwO}}$
 
   </details>
          </td>
