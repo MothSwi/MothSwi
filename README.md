@@ -20,7 +20,7 @@
 
 <div align="right">  
   
-${\textsf{\color{#f1f7f9}Sunny, Swi, or whatever you desire to call me :D I like dinosaurs and sometimes I draw}}$<br>$\color{#f1f7f9}{\textsf{I love to play Roblox and pony town with my frens!! :3}}$
+${\textsf{\color{#f1f7f9}I'm Sunny, Swi, or whatever you desire to call me :D I like dinosaurs and sometimes I draw}}$<br>$\color{#f1f7f9}{\textsf{I love to play Roblox and pony town with my frens!! :3}}$
 
   </details>
          </td>
@@ -46,7 +46,7 @@ ${\textsf{\color{#f1f7f9}Ultrakill, Hollow Knight (Silksong), Garn47, Rain World
 <details>
 <summary>$\color{#d0e2e7}{\textsf{✦ ݁˖ Personas}}$</summary>
 
-${\textsf{\color{#f1f7f9}The Radiance (Hollow Knight), Mindflayer (Ultrakill)}}$<br>$\color{#f1f7f9}{\textsf{Seven Red Suns (Rain World), Folly (Regretevator)}}$
+${\textsf{\color{#f1f7f9}The Radiance (Hollow Knight), Mindflayer (Ultrakill)}}$<br>$\color{#f1f7f9}{\textsf{Seven Red Suns (Rain World)}}$
 
   </details>
          </td>
