@@ -58,7 +58,7 @@ ${\textsf{\color{#f1f7f9}The Radiance (Hollow Knight), Mindflayer (Ultrakill)}}$
 <a href="https://www.roblox.com/users/10426544082/profile"><img width="404" height="140" alt="Image" src="https://github.com/user-attachments/assets/993e4e90-4ae7-4b25-addb-77307a7f6b26" title=MyRobloxAccount />
 <p align="left">
   
- ${\textsf{\color{#f1f7f9}Interact or c+h anytime on pony town :D Love yall, take care💙}}$<br>$\color{#f1f7f9}{\textsf{This is created mainly for pony town o.o}}$
+ ${\textsf{\color{#f1f7f9}Interact or c+h anytime on pony town :D Love yall, take care💙}}$<br>$\color{#f1f7f9}{\textsf{This is created mainly for pony town o.o Check my straw pls}}$
 
 <br>
 <br>
