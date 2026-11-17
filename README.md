@@ -16,7 +16,7 @@
 <div id=header align=center>
 <details align=middle> 
  <summary>.𝑜𝑜𝑚𝑓𝑠, 𝑓𝑜𝑙𝑙𝑜𝑤 𝑡ℎ𝑒𝑚 𝑝𝑙𝑠</summary>
-<a href="<a href="https://github.com/TheMisfortunate">𝗌𝗎𝗋𝗏/𝖺𝗅𝖿𝗒</a> , <a href="https://github.com/AllyStxr">𝖺𝗅𝗅𝗒𝗌𝗍𝗑𝗋</a> , <a href="https://github.com/ShinyAbolish">𝗌𝗁𝗂𝗇𝗒</a>
+<a href="https://github.com/TheMisfortunate">𝗌𝗎𝗋𝗏</a> , <a href="https://github.com/AllyStxr">𝖺𝗅𝗅𝗒𝗌𝗍𝗑𝗋</a> , <a href="https://github.com/ShinyAbolish">𝗌𝗁𝗂𝗇𝗒</a>
 </details>
 <div id=header align=center>
 <details align=middle> 
