@@ -21,7 +21,7 @@
 <div id=header align=center>
 <details align=middle> 
  <summary>.𝖿𝗋𝖾𝗇𝗌 𝗐𝗂𝗍𝗁𝗈𝗎𝗍 𝗀𝗂𝗍𝗁𝗎𝖻</summary>
-moon , garnet , muffin , chomper , narcyz/pale , onyx , dark knife , nick , kris , fine , judas , timofey/tima 
+moon , garnet , <a href="https://muffin-intro.straw.page/">muffin</a> , chomper , narcyz/pale , onyx , dark knife , nick , kris , fine , judas , timofey/tima 
 </details>
 <p align="center"><img src="https://files.catbox.moe/i0h7dm.png" /> </p>
 <p align="center">
