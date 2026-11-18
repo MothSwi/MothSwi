@@ -24,6 +24,6 @@
 moon , garnet , <a href="https://muffin-intro.straw.page/">muffin</a> , chomper , narcyz/pale , onyx , dark knife , nick , kris , fine , judas , timofey/tima 
 </details>
 <p align="center"><img src="https://files.catbox.moe/i0h7dm.png" /> </p>
-<p align="center"> i take simple mod requests for rain world and drawing requests feel free to ask!! </p>
+<p align="center"> i take drawing requests feel free to ask!! </p>
 <p align="center">
 ⚞⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⚟
