@@ -10,7 +10,7 @@
   ☼
   <a href="https://characterhub.com/profile/MothSwi">𝑐ℎ𝑎𝑟𝑎𝑐𝑡𝑒𝑟ℎ𝑢𝑏</a>  
   ☼
-  <a href="https://ru.pinterest.com/MothSwi/_profile/">𝑝𝑖𝑛𝑡𝑒𝑟𝑒𝑠𝑡.</a>
+  <a href="https://ru.pinterest.com/MothSwi/_profile/_created/">𝑝𝑖𝑛𝑡𝑒𝑟𝑒𝑠𝑡.</a>
 </p>
 
 <p align="center"> 𝖼𝗁𝖾𝖼𝗄 𝗌𝗈𝖼𝗂𝖺𝗅𝗌 </p>
